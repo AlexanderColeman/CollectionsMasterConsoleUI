@@ -75,8 +75,9 @@ namespace CollectionsMasterConsoleUI
             List<int> intList = new List<int>();
 
             //TODO: Print the capacity of the list to the console
-
-
+            Console.WriteLine("------------------Print capacity------------------");
+            Console.WriteLine(intList.Capacity);
+            Console.WriteLine("------------------Print capacity------------------");
             //TODO: Populate the List with 50 random numbers between 0 and 50 you will need a method for this            
             Populater(intList);
 
