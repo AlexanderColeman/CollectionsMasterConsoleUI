@@ -1,0 +1,14 @@
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.exe
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.deps.json
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.runtimeconfig.json
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.runtimeconfig.dev.json
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.dll
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.pdb
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.csproj.AssemblyReference.cache
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.AssemblyInfoInputs.cache
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.AssemblyInfo.cs
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.dll
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.pdb
+C:\Users\acole\Desktop\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.genruntimeconfig.cache
